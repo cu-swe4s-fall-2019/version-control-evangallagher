@@ -1,2 +1,1 @@
-# version_control
-Get familiar with version control basics
+Updated functions in 'math_lib.py'
