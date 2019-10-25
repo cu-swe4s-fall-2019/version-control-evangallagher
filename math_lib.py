@@ -1,5 +1,3 @@
-import math_lib as ml 
-
 def div(a, b):
     if b == 0:
         return None
