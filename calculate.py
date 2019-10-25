@@ -1,8 +1,10 @@
-import math_lib
+import math_lib as ml
 import argparse
 
+
 def main():
-    parser = argparse.ArgumentParser(description='Divide and add two variables')
+    parser = argparse.ArgumentParser(
+        description='Divide and add two variables')
 
     parser.add_argument('-a',
                         type=int,
